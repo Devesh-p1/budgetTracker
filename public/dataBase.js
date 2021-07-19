@@ -20,3 +20,14 @@ request.onsuccess = ({ target }) => {
       checkDatabase();
     }
   };
+
+  request.onerror = function(event) {
+    console.log("Woops! " + event.target.errorCode);
+  };
+  
+  function saveRecord(record) {
+    const transaction = db.transaction(["pending"], "readwrite");
+    const store = transaction.objectStore("pending");
+  
+    store.add(record);
+  }
