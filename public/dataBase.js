@@ -59,3 +59,5 @@ request.onsuccess = ({ target }) => {
       }
     };
   }
+
+  window.addEventListener("online", checkDatabase);
