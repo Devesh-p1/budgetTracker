@@ -15,7 +15,7 @@
 
 ### 🏠 [Homepage]((https://github.com/Devesh-p1/budgetTracker.git))
 
-### ✨ [Demo]((comingsoon))
+### ✨ [Demo]((https://shmoneytracker.herokuapp.com/))
 
 ## Prerequisites
 
