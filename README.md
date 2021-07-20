@@ -40,7 +40,7 @@ npm run start
 
 * Website: (https://devesh-p1.github.io/personalWebpage2/)
 * Github: [@Devesh-p1](https://github.com/Devesh-p1)
-* LinkedIn: [@Devesh Patel](https://linkedin.com/in/Devesh Patel)
+* LinkedIn: [@Devesh Patel](https://linkedin.com/in/DeveshPatel)
 
 ## Show your support
 
